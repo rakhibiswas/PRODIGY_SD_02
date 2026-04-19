@@ -42,7 +42,7 @@ To build an **interactive user-driven application** that demonstrates logic buil
 
 1. Open the project in IntelliJ IDEA
 2. Compile the program
-3. Run `GuessingGame.java`
+3. Run 
 4. Enter your guesses until you find the correct number
 
 ---
