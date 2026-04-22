@@ -75,7 +75,7 @@ Total attempts: 3
 
 ## 📁 Repository Name
 
-PRODIGY_SE_02
+PRODIGY_SD_02
 
 ---
 
